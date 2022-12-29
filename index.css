@@ -15,10 +15,10 @@
   font-size: 32px;
   line-height: 36px;  
   width:100px;
+  float:left;
 }
 
 .AAContainer
 {
  margin: 0 auto;
- display:flex;
 }
