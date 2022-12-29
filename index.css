@@ -5,7 +5,7 @@
   font-size: 16px;
   line-height: 18px;
   width:500px;
-  margin:0 auto;
+
 }
 
 .kadomatsu
@@ -17,7 +17,7 @@
   
   width:100px;
   
-  margin:0 auto;
+  float:left;
 }
 
 .AAContainer
