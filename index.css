@@ -31,5 +31,6 @@
 
 .AAContainer
 {
- margin: 0 auto;
+  width:auto;
+  margin: 0 auto;
 }
