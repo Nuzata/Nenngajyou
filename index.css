@@ -1,12 +1,17 @@
 .AAFont-pre
 {
-  font-family:"ＭＳ Ｐゴシック","MS PGothic","Mona","mona-gothic-jisx0208.1990-0",sans-serif;
-  white-space: pre;
-  font-size: 8px;
-  line-height: 9px;
   width:60%;
   margin: 0 auto;
   float:left;
+  text-align:center;
+}
+
+.AA
+{
+  font-family:"ＭＳ Ｐゴシック","MS PGothic","Mona","mona-gothic-jisx0208.1990-0",sans-serif;
+  white-space: pre;
+  font-size: 8px;
+  line-height: 9px;  
 }
 
 .kadomatsu-left
