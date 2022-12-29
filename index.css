@@ -8,6 +8,14 @@
   margin:0 auto;
 }
 
+.kadomatsu
+{
+  font-family:"ＭＳ Ｐゴシック","MS PGothic","Mona","mona-gothic-jisx0208.1990-0",sans-serif;
+  white-space: pre;
+  font-size: 32px;
+  line-height: 36px;
+}
+
 .AAContainer
 {
  width:500px;
