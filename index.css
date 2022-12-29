@@ -10,7 +10,8 @@
   font-family:"ＭＳ Ｐゴシック","MS PGothic","Mona","mona-gothic-jisx0208.1990-0",sans-serif;
   white-space: pre;
   font-size: 8px;
-  line-height: 9px;  
+  line-height: 9px;
+  margin:0 auto;
 }
 
 .kadomatsu-left
