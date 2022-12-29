@@ -5,7 +5,7 @@
   font-size: 8px;
   line-height: 9px;
   width:400px;
-  margin: 0 20px;
+  margin: 0 50px;
 }
 
 .kadomatsu-left
@@ -14,7 +14,7 @@
   white-space: pre;
   font-size: 16px;
   line-height: 18px;  
-  width:100px;
+  width:80px;
   float:left;
 }
 
@@ -24,7 +24,7 @@
   white-space: pre;
   font-size: 16px;
   line-height: 18px;  
-  width:100px;
+  width:80px;
   float:right;
 }
 
